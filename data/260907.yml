@@ -5,7 +5,7 @@ about:
   head: 03d6ab8
   archived: false
   latestVersion: "v0.11.1"
-  collectedAt: 2026-09-07T05:28:04Z
+  collectedAt: 2026-09-07T19:19:52Z
 timeline:
   created: 2020-12-10
   lastCommit: 2026-07-15
@@ -81,7 +81,7 @@ total:
   commit: 2049
 ---
 path: /home/runner/.x-repo/github.com/arxanas/git-branchless
-collectedAt: 2026-09-07T05:28:06Z
+collectedAt: 2026-09-07T19:19:55Z
 loc:
   Rust:
     code: 56096
@@ -251,7 +251,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:28:07+00:00
+  collectedAt: 2026-09-07T19:19:55+00:00
   platform:
     darwin/arm64:
       name:  git-branchless-v0.11.1-aarch64-apple-darwin.tar.gz
