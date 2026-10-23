@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,131 · **Forks**: 117 · **Open issues**: 264 · **Contributors**: 39
+- **Stars**: 4,131 · **Forks**: 118 · **Open issues**: 264 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1011 · **Open PRs**: 24 · **Closed issues**: 192 · **Open issues**: 72 · **Commits**: 2049
+- **Releases**: 27 · **Merged PRs**: 1011 · **Open PRs**: 26 · **Closed issues**: 192 · **Open issues**: 72 · **Commits**: 2049
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 2 | 16 | 12 | 0 | 2 | 33 |
-| 360d | 2025-10-27 | 2 | 40 | 13 | 5 | 4 | 72 |
-| last720d | 2024-11-01 | 2 | 160 | 15 | 13 | 12 | 206 |
+| 30d | 2026-09-23 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 2 | 16 | 14 | 0 | 2 | 33 |
+| 360d | 2025-10-28 | 2 | 40 | 15 | 5 | 4 | 72 |
+| last720d | 2024-11-02 | 2 | 160 | 17 | 13 | 12 | 206 |
 
 ## Release assets
 
@@ -73,6 +73,17 @@ Lowest-scoring checks:
 | [git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
 | [git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/git-branchless). **14** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.1` | ✅ latest |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
+| Alpine edge | `0.10.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for git-branchless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-branchless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +93,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:33:48Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:48Z._
