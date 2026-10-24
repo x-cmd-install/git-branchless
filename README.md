@@ -14,11 +14,11 @@ x install git-branchless
 
 ## Code insight
 
-Total: **57,008** lines of code across **153** files in the top 5 languages.
+Total: **57,271** lines of code across **153** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 56,096 | 1,276 | 6,168 | 129 |
+| Rust | 56,359 | 1,278 | 6,196 | 129 |
 | Toml | 591 | 13 | 71 | 19 |
 | Sh | 192 | 3 | 11 | 3 |
 | Nix | 99 | 11 | 12 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.1` (2026-05-21)
-- **Last commit**: 2026-07-15
+- **Last commit**: 2026-10-24
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,131 · **Forks**: 118 · **Open issues**: 264 · **Contributors**: 39
+- **Stars**: 4,132 · **Forks**: 118 · **Open issues**: 264 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1011 · **Open PRs**: 26 · **Closed issues**: 192 · **Open issues**: 72 · **Commits**: 2049
+- **Releases**: 27 · **Merged PRs**: 1014 · **Open PRs**: 24 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2052
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 2 | 16 | 14 | 0 | 2 | 33 |
-| 360d | 2025-10-28 | 2 | 40 | 15 | 5 | 4 | 72 |
-| last720d | 2024-11-02 | 2 | 160 | 17 | 13 | 12 | 206 |
+| 30d | 2026-09-24 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-25 | 0 | 3 | 3 | 0 | 0 | 3 |
+| 90d | 2026-07-26 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-04-27 | 2 | 19 | 12 | 0 | 2 | 36 |
+| 360d | 2025-10-29 | 2 | 43 | 13 | 5 | 4 | 75 |
+| last720d | 2024-11-03 | 2 | 163 | 15 | 13 | 12 | 209 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:48Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:19:47Z._
