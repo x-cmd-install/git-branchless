@@ -47,7 +47,7 @@ x install git-branchless
 
 ## 流行度
 
-- **Star**: 4,134 · **Fork**: 118 · **开放 issue**: 264 · **贡献者**: 41
+- **Star**: 4,133 · **Fork**: 119 · **开放 issue**: 264 · **贡献者**: 41
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install git-branchless
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 3 | 2 | 0 | 0 | 3 |
-| last60d | 2026-08-30 | 0 | 3 | 3 | 0 | 0 | 3 |
-| 90d | 2026-07-31 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-02 | 2 | 18 | 12 | 0 | 2 | 34 |
-| 360d | 2025-11-03 | 2 | 43 | 13 | 5 | 4 | 75 |
-| last720d | 2024-11-08 | 2 | 158 | 15 | 13 | 11 | 205 |
+| 30d | 2026-09-30 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-31 | 0 | 3 | 3 | 0 | 0 | 3 |
+| 90d | 2026-08-01 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-05-03 | 2 | 18 | 12 | 0 | 2 | 34 |
+| 360d | 2025-11-04 | 2 | 43 | 13 | 5 | 4 | 75 |
+| last720d | 2024-11-09 | 2 | 158 | 15 | 13 | 11 | 205 |
 
 ## Release 资产
 
@@ -73,6 +73,17 @@ x install git-branchless
 | [git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
 | [git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/git-branchless) 上共有 **39** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.11.1` | ✅ latest |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
+| Alpine edge | `0.10.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 git-branchless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `git-branchless` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -82,4 +93,4 @@ git-branchless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T06:27:40Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T06:25:20Z._
