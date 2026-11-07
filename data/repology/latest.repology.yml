@@ -1,42 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: git-branchless
-  visiblename: git-branchless
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
-  maintainers:
-    - mail@nh2.me
-    - henri@henrimenke.de
-    - bryanlais@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: git-branchless
-  visiblename: git-branchless
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
-  maintainers:
-    - mail@nh2.me
-    - henri@henrimenke.de
-    - bryanlais@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: git-branchless
-  visiblename: git-branchless
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
-  maintainers:
-    - mail@nh2.me
-    - henri@henrimenke.de
-    - bryanlais@gmail.com
-  licenses:
-    - GPL-2.0-only
 - repo: alpine_3_17
   subrepo: community
   srcname: git-branchless
@@ -193,6 +154,13 @@
     - jakub@jirutka.cz
   licenses:
     - MIT OR Apache-2.0
+- repo: homebrew
+  srcname: git-branchless
+  visiblename: git-branchless
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: High-velocity, monorepo-scale workflow for Git
 - repo: alpine_edge
   subrepo: community
   srcname: git-branchless
@@ -206,18 +174,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT OR Apache-2.0
-- repo: pkgsrc_2026_3
-  srcname: devel/git-branchless
-  binname: git-branchless
-  visiblename: devel/git-branchless
-  version: 0.11.1
-  origversion: null
-  status: newest
-  summary: High-velocity, monorepo-scale workflow for Git
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: alpine_edge
   subrepo: community
   srcname: git-branchless
@@ -330,13 +286,6 @@
   origversion: null
   status: newest
   summary: High-velocity, monorepo-scale workflow for Git
-- repo: homebrew
-  srcname: git-branchless
-  visiblename: git-branchless
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: High-velocity, monorepo-scale workflow for Git
 - repo: macports
   srcname: devel/git-branchless
   binname: git-branchless
@@ -356,23 +305,25 @@
   srcname: git-branchless
   binname: git-branchless
   visiblename: git-branchless
-  version: 0.8.0
-  origversion: 0.8.0-1
-  status: outdated
+  version: 0.11.1
+  origversion: 0.11.1-2
+  status: newest
   summary: High-velocity monorepo-scale workflow for Git
   licenses:
-    - GPL2
+    - Apache-2.0
+    - MIT
 - repo: manjaro_testing
   subrepo: extra
   srcname: git-branchless
   binname: git-branchless
   visiblename: git-branchless
-  version: 0.8.0
-  origversion: 0.8.0-1
-  status: outdated
+  version: 0.11.1
+  origversion: 0.11.1-2
+  status: newest
   summary: High-velocity monorepo-scale workflow for Git
   licenses:
-    - GPL2
+    - Apache-2.0
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: git-branchless
@@ -395,6 +346,45 @@
   maintainers:
     - mail@nh2.me
     - henri@henrimenke.de
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_24_11
+  srcname: git-branchless
+  visiblename: git-branchless
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
+  maintainers:
+    - mail@nh2.me
+    - henri@henrimenke.de
+    - bryanlais@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_05
+  srcname: git-branchless
+  visiblename: git-branchless
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
+  maintainers:
+    - mail@nh2.me
+    - henri@henrimenke.de
+    - bryanlais@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: git-branchless
+  visiblename: git-branchless
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Suite of tools to help you visualize, navigate, manipulate, and repair your commit history
+  maintainers:
+    - mail@nh2.me
+    - henri@henrimenke.de
+    - bryanlais@gmail.com
   licenses:
     - GPL-2.0-only
 - repo: nix_stable_26_05
@@ -438,6 +428,18 @@
     - Apache-2.0
     - MIT
 - repo: pkgsrc_2026_2
+  srcname: devel/git-branchless
+  binname: git-branchless
+  visiblename: devel/git-branchless
+  version: 0.11.1
+  origversion: null
+  status: newest
+  summary: High-velocity, monorepo-scale workflow for Git
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_3
   srcname: devel/git-branchless
   binname: git-branchless
   visiblename: devel/git-branchless
