@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-08 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-10 | 2 | 18 | 12 | 0 | 2 | 30 |
-| 360d | 2025-11-11 | 2 | 43 | 13 | 5 | 3 | 75 |
-| last720d | 2024-11-16 | 2 | 153 | 14 | 12 | 11 | 199 |
+| 30d | 2026-10-08 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-08 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-08-09 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-05-11 | 2 | 18 | 12 | 0 | 2 | 30 |
+| 360d | 2025-11-12 | 2 | 43 | 13 | 5 | 3 | 75 |
+| last720d | 2024-11-17 | 2 | 153 | 14 | 12 | 11 | 199 |
 
 ## Release assets
 
@@ -75,12 +75,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/git-branchless). **12** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/git-branchless). **14** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.11.1` | ✅ latest |
-| Homebrew | `0.11.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.11.1` | ✅ latest |
 | Alpine edge | `0.10.0` | ⚠️ outdated |
 
@@ -93,4 +93,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:26:38Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:49:04Z._

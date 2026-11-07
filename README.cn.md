@@ -57,12 +57,12 @@ x install git-branchless
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-08 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-10 | 2 | 18 | 12 | 0 | 2 | 30 |
-| 360d | 2025-11-11 | 2 | 43 | 13 | 5 | 3 | 75 |
-| last720d | 2024-11-16 | 2 | 153 | 14 | 12 | 11 | 199 |
+| 30d | 2026-10-08 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-08 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-08-09 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-05-11 | 2 | 18 | 12 | 0 | 2 | 30 |
+| 360d | 2025-11-12 | 2 | 43 | 13 | 5 | 3 | 75 |
+| last720d | 2024-11-17 | 2 | 153 | 14 | 12 | 11 | 199 |
 
 ## Release 资产
 
@@ -75,12 +75,12 @@ x install git-branchless
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/git-branchless) 上共有 **39** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**26** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/git-branchless) 上共有 **39** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.11.1` | ✅ latest |
-| Homebrew | `0.11.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.11.1` | ✅ latest |
 | Alpine edge | `0.10.0` | ⚠️ outdated |
 
@@ -93,4 +93,4 @@ git-branchless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:26:40Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:49:05Z._
