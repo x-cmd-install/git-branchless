@@ -47,12 +47,12 @@ Total: **57,271** lines of code across **153** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-14 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-15 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-17 | 2 | 18 | 12 | 0 | 2 | 29 |
-| 360d | 2025-11-18 | 2 | 43 | 13 | 5 | 3 | 75 |
-| last720d | 2024-11-23 | 2 | 148 | 14 | 12 | 11 | 194 |
+| 30d | 2026-10-15 | 0 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-15 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-08-16 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-05-18 | 2 | 18 | 12 | 0 | 2 | 29 |
+| 360d | 2025-11-19 | 2 | 43 | 13 | 5 | 3 | 75 |
+| last720d | 2024-11-24 | 2 | 148 | 14 | 12 | 11 | 194 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:44:57Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:25:10Z._
