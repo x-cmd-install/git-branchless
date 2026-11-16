@@ -37,7 +37,7 @@ Total: **57,271** lines of code across **153** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,142 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
+- **Stars**: 4,143 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **57,271** lines of code across **153** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 3 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-16 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-17 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-19 | 2 | 18 | 9 | 0 | 2 | 17 |
-| 360d | 2025-11-20 | 2 | 43 | 13 | 4 | 3 | 75 |
-| last720d | 2024-11-25 | 2 | 147 | 14 | 11 | 11 | 194 |
+| 30d | 2026-10-17 | 0 | 3 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-17 | 0 | 3 | 2 | 0 | 0 | 3 |
+| 90d | 2026-08-18 | 0 | 3 | 4 | 0 | 0 | 3 |
+| last180d | 2026-05-20 | 2 | 18 | 9 | 0 | 2 | 17 |
+| 360d | 2025-11-21 | 2 | 43 | 13 | 4 | 3 | 75 |
+| last720d | 2024-11-26 | 2 | 147 | 14 | 11 | 11 | 193 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:24:54Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:50:06Z._
