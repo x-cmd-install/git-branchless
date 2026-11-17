@@ -14,15 +14,25 @@ x install git-branchless
 
 ## 代码洞察
 
-合计: **57,271** 行代码（覆盖前 5 种语言、共 **153** 个文件）。
+合计: **57,357** 行代码（覆盖前 5 种语言、共 **153** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 56,359 | 1,278 | 6,196 | 129 |
+| Rust | 56,445 | 1,281 | 6,207 | 129 |
 | Toml | 591 | 13 | 71 | 19 |
 | Sh | 192 | 3 | 11 | 3 |
 | Nix | 99 | 11 | 12 | 1 |
 | Tcl | 30 | 0 | 5 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.6 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 5/19 approved changesets -- score normalized to 2
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -32,27 +42,27 @@ x install git-branchless
 ## 发布
 
 - **最新版本**: `v0.11.1` (2026-05-21)
-- **最近提交**: 2026-10-24
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 4,143 · **Fork**: 119 · **开放 issue**: 264 · **贡献者**: 41
+- **Star**: 4,144 · **Fork**: 119 · **开放 issue**: 264 · **贡献者**: 41
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 1014 · **开放 PR**: 24 · **已关闭 issue**: 193 · **开放 issue**: 71 · **提交数**: 2052
+- **发布数**: 27 · **已合并 PR**: 1016 · **开放 PR**: 24 · **已关闭 issue**: 193 · **开放 issue**: 71 · **提交数**: 2054
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-17 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-18 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-20 | 2 | 18 | 9 | 0 | 2 | 17 |
-| 360d | 2025-11-21 | 2 | 43 | 13 | 4 | 3 | 75 |
-| last720d | 2024-11-26 | 2 | 147 | 14 | 11 | 11 | 193 |
+| 30d | 2026-10-18 | 0 | 5 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-18 | 0 | 5 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-19 | 0 | 5 | 4 | 0 | 0 | 4 |
+| last180d | 2026-05-21 | 2 | 15 | 8 | 0 | 2 | 19 |
+| 360d | 2025-11-22 | 2 | 45 | 13 | 4 | 3 | 77 |
+| last720d | 2024-11-27 | 2 | 149 | 14 | 11 | 11 | 195 |
 
 ## Release 资产
 
@@ -63,17 +73,6 @@ x install git-branchless
 | [git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
 | [git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/git-branchless) 上共有 **39** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.11.1` | ✅ latest |
-| Homebrew | `0.11.1` | ✅ latest |
-| Nix unstable | `0.11.1` | ✅ latest |
-| Alpine edge | `0.10.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 git-branchless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `git-branchless` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -83,4 +82,4 @@ git-branchless 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:50:06Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:35:12Z._

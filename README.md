@@ -14,15 +14,25 @@ x install git-branchless
 
 ## Code insight
 
-Total: **57,271** lines of code across **153** files in the top 5 languages.
+Total: **57,357** lines of code across **153** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 56,359 | 1,278 | 6,196 | 129 |
+| Rust | 56,445 | 1,281 | 6,207 | 129 |
 | Toml | 591 | 13 | 71 | 19 |
 | Sh | 192 | 3 | 11 | 3 |
 | Nix | 99 | 11 | 12 | 1 |
 | Tcl | 30 | 0 | 5 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 5/19 approved changesets -- score normalized to 2
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -32,27 +42,27 @@ Total: **57,271** lines of code across **153** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.1` (2026-05-21)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-17
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,143 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
+- **Stars**: 4,144 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1014 · **Open PRs**: 24 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2052
+- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 24 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-17 | 0 | 3 | 2 | 0 | 0 | 3 |
-| 90d | 2026-08-18 | 0 | 3 | 4 | 0 | 0 | 3 |
-| last180d | 2026-05-20 | 2 | 18 | 9 | 0 | 2 | 17 |
-| 360d | 2025-11-21 | 2 | 43 | 13 | 4 | 3 | 75 |
-| last720d | 2024-11-26 | 2 | 147 | 14 | 11 | 11 | 193 |
+| 30d | 2026-10-18 | 0 | 5 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-18 | 0 | 5 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-19 | 0 | 5 | 4 | 0 | 0 | 4 |
+| last180d | 2026-05-21 | 2 | 15 | 8 | 0 | 2 | 19 |
+| 360d | 2025-11-22 | 2 | 45 | 13 | 4 | 3 | 77 |
+| last720d | 2024-11-27 | 2 | 149 | 14 | 11 | 11 | 195 |
 
 ## Release assets
 
@@ -63,17 +73,6 @@ Total: **57,271** lines of code across **153** files in the top 5 languages.
 | [git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
 | [git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **39** distros on [repology.org](https://repology.org/project/git-branchless). **14** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.11.1` | ✅ latest |
-| Homebrew | `0.11.1` | ✅ latest |
-| Nix unstable | `0.11.1` | ✅ latest |
-| Alpine edge | `0.10.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for git-branchless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-branchless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +82,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:50:06Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:35:12Z._
