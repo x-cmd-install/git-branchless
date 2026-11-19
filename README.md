@@ -26,12 +26,12 @@ Total: **57,357** lines of code across **153** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/19 approved changesets -- score normalized to 2
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Code-Review** (2/10) — Found 4/20 approved changesets -- score normalized to 2
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,144 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
+- **Stars**: 4,145 · **Forks**: 119 · **Open issues**: 264 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 24 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
+- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 25 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 5 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-18 | 0 | 5 | 2 | 0 | 0 | 4 |
-| 90d | 2026-08-19 | 0 | 5 | 4 | 0 | 0 | 4 |
-| last180d | 2026-05-21 | 2 | 15 | 8 | 0 | 2 | 19 |
-| 360d | 2025-11-22 | 2 | 45 | 13 | 4 | 3 | 77 |
-| last720d | 2024-11-27 | 2 | 149 | 14 | 11 | 11 | 195 |
+| 30d | 2026-10-20 | 0 | 4 | 2 | 0 | 0 | 3 |
+| last60d | 2026-09-20 | 0 | 5 | 3 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 0 | 5 | 5 | 0 | 0 | 4 |
+| last180d | 2026-05-23 | 0 | 15 | 9 | 0 | 2 | 19 |
+| 360d | 2025-11-24 | 2 | 45 | 14 | 4 | 3 | 77 |
+| last720d | 2024-11-29 | 2 | 149 | 15 | 11 | 10 | 195 |
 
 ## Release assets
 
@@ -73,6 +73,17 @@ Lowest-scoring checks:
 | [git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
 | [git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/arxanas/git-branchless/releases/download/v0.11.1/git-branchless-v0.11.1-x86_64-unknown-linux-musl.tar.gz) | 8.7 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/git-branchless). **14** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.1` | ✅ latest |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
+| Alpine edge | `0.10.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for git-branchless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-branchless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +93,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:35:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:54:21Z._
