@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 25 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
+- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 26 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 2 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-27 | 0 | 5 | 3 | 0 | 0 | 4 |
-| 90d | 2026-08-28 | 0 | 5 | 4 | 0 | 0 | 4 |
-| last180d | 2026-05-30 | 0 | 14 | 9 | 0 | 2 | 17 |
-| 360d | 2025-12-01 | 2 | 44 | 14 | 4 | 3 | 67 |
-| last720d | 2024-12-06 | 2 | 144 | 15 | 11 | 10 | 189 |
+| 30d | 2026-10-28 | 0 | 2 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-28 | 0 | 5 | 4 | 0 | 0 | 4 |
+| 90d | 2026-08-29 | 0 | 5 | 5 | 0 | 0 | 4 |
+| last180d | 2026-05-31 | 0 | 12 | 10 | 0 | 2 | 17 |
+| 360d | 2025-12-02 | 2 | 44 | 15 | 4 | 3 | 67 |
+| last720d | 2024-12-07 | 2 | 144 | 16 | 11 | 10 | 189 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:10:55Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:49:39Z._
