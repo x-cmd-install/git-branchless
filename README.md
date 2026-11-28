@@ -14,11 +14,11 @@ x install git-branchless
 
 ## Code insight
 
-Total: **57,357** lines of code across **153** files in the top 5 languages.
+Total: **57,564** lines of code across **153** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 56,445 | 1,281 | 6,207 | 129 |
+| Rust | 56,652 | 1,287 | 6,239 | 129 |
 | Toml | 591 | 13 | 71 | 19 |
 | Sh | 192 | 3 | 11 | 3 |
 | Nix | 99 | 11 | 12 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.1` (2026-05-21)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-28
 - **Assets in release**: 4
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1016 · **Open PRs**: 26 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2054
+- **Releases**: 27 · **Merged PRs**: 1020 · **Open PRs**: 23 · **Closed issues**: 193 · **Open issues**: 71 · **Commits**: 2062
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-28 | 0 | 5 | 4 | 0 | 0 | 4 |
-| 90d | 2026-08-29 | 0 | 5 | 5 | 0 | 0 | 4 |
-| last180d | 2026-05-31 | 0 | 12 | 10 | 0 | 2 | 17 |
-| 360d | 2025-12-02 | 2 | 44 | 15 | 4 | 3 | 67 |
-| last720d | 2024-12-07 | 2 | 144 | 16 | 11 | 10 | 189 |
+| 30d | 2026-10-29 | 0 | 5 | 1 | 0 | 0 | 8 |
+| last60d | 2026-09-29 | 0 | 9 | 2 | 0 | 0 | 12 |
+| 90d | 2026-08-30 | 0 | 9 | 2 | 0 | 0 | 12 |
+| last180d | 2026-06-01 | 0 | 16 | 7 | 0 | 2 | 25 |
+| 360d | 2025-12-03 | 2 | 48 | 12 | 4 | 3 | 75 |
+| last720d | 2024-12-08 | 2 | 144 | 13 | 11 | 10 | 197 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for git-branchless lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:49:39Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:52:54Z._
